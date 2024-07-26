@@ -17,4 +17,6 @@ You can find the dataset on Kaggle: https://www.kaggle.com/datasets/START-UMD/gt
 * Seaborn
 * Plotly
 * Dask
-  
+##  Interactive Visualizations 
+![7](https://github.com/user-attachments/assets/e54e3405-6bbd-4a2b-94c2-c3ddf0f72da0)
+![9](https://github.com/user-attachments/assets/d6b4421a-b73e-4789-8cb2-3df5baeb4b8a)
