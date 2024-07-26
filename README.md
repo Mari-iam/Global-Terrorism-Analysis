@@ -3,7 +3,7 @@
 In this project we are trying to:
 * Explore the dataset to understand its structure and features.
 * Handle missing values and perform data cleaning where necessary.
-* Use Dask to handle large data eSiciently and compare the performance with Pandas for certain operations.
+* Use Dask to handle large data efficiently and compare the performance with Pandas for certain operations.
 * Perform basic statistical analysis to summarize the data.
 * Drive insights from the data.
 * Performance Comparison between Dask and Pandas
