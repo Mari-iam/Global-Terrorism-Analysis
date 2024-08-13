@@ -1,4 +1,5 @@
 # Global-Terrorism-Analysis
+The Global Terrorism Analysis project is a comprehensive exploration of terrorism trends and patterns worldwide, leveraging a rich dataset that spans multiple decades. The primary objective of this project is to uncover insights into the frequency, geography, and impact of terrorist activities across different regions and countries.
 ## Project Overview
 In this project we are trying to:
 * Explore the dataset to understand its structure and features.
